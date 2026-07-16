@@ -18,7 +18,7 @@ class Settings(BaseSettings):
     CHROMA_PERSIST_DIR: Path = BASE_DIR / "data" / "chroma_db"
     ROLE_KB_DIR: Path = BASE_DIR / "data" / "role_knowledge_base"
 
-    EMBEDDING_MODEL_NAME: str = r"C:\Users\pc\bge-small-en-v1.5"
+    EMBEDDING_MODEL_NAME: str = "BAAI/bge-small-en-v1.5"
 
     GROQ_API_KEY: str = ""
     GROQ_MODEL_NAME: str = "llama-3.3-70b-versatile"

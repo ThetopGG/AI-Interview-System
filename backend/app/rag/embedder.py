@@ -10,7 +10,7 @@ def get_embedder() -> SentenceTransformer:
     if _model is None:
         _model = SentenceTransformer(
             settings.EMBEDDING_MODEL_NAME,
-            local_files_only=True,
+            local_files_only=False,
         )
     return _model
 
