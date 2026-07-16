@@ -103,6 +103,8 @@ frontend/
 ```
 
 ---
+# main note
+On the first run, the embedding model (`BAAI/bge-small-en-v1.5`) will be downloaded automatically from Hugging Face. Subsequent runs use the local cache.
 
 # Workflow
 
