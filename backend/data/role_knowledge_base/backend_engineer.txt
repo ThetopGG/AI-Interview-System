@@ -1,0 +1,10 @@
+Title: Backend Engineer
+Description: Backend engineering role focused on APIs, databases, system design, and scalable services.
+
+Backend engineers design and build server-side applications, RESTful and GraphQL APIs, and microservices. Core responsibilities include database schema design (relational and NoSQL), query optimization, caching strategies, message queues, authentication and authorization systems, and ensuring system reliability under load.
+
+Key skill areas: Python, Java, Go, or Node.js; SQL and ORM tools such as SQLAlchemy or Hibernate; API design principles (REST, gRPC); system design fundamentals including load balancing, horizontal scaling, database sharding, and eventual consistency; testing practices including unit, integration, and load testing; containerization with Docker and orchestration with Kubernetes; CI/CD pipelines; observability including logging, metrics, and distributed tracing.
+
+Common interview themes: designing a scalable URL shortener or rate limiter, discussing database indexing tradeoffs, explaining how to handle race conditions and concurrency, debugging a slow API endpoint, designing a notification or messaging system, explaining idempotency in payment systems, and discussing experience with production incidents and how they were resolved.
+
+Candidates should be able to reason about tradeoffs between consistency and availability, explain caching invalidation strategies, and describe how they would monitor and scale a service experiencing sudden traffic growth.

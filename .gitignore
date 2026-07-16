@@ -1,0 +1,47 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment
+.env
+.env.*
+
+# Database
+*.db
+interview.db
+
+# Vector Database
+backend/data/chroma_db/
+
+# Uploaded resumes
+backend/data/resumes/
+
+# Node
+frontend/node_modules/
+node_modules/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+
+# Python cache
+.pytest_cache/
+
+# Python cache
+.pytest_cache/
+
+# Logs
+*.log

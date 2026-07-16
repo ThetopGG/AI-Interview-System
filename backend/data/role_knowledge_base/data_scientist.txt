@@ -1,0 +1,10 @@
+Title: Data Scientist
+Description: Data science role focused on statistical analysis, machine learning modeling, and data-driven decision making.
+
+Data scientists analyze large datasets to extract insights, build predictive models, and communicate findings to stakeholders. Responsibilities include exploratory data analysis, feature engineering, model selection and evaluation, and experiment design (A/B testing).
+
+Key skill areas: Python (pandas, numpy, scikit-learn); SQL for data extraction and aggregation; statistics and probability (hypothesis testing, confidence intervals, regression); machine learning algorithms (linear/logistic regression, decision trees, gradient boosting, clustering); model evaluation metrics (precision, recall, F1, ROC-AUC, RMSE); experiment design and causal inference; data visualization (matplotlib, seaborn, or BI tools).
+
+Common interview themes: explaining bias-variance tradeoff, walking through how to handle imbalanced datasets, designing an A/B test for a product feature, explaining how to detect and handle data leakage, describing feature selection techniques, discussing how to validate a model before deployment, and explaining a past project involving messy real-world data.
+
+Candidates should be able to reason about statistical significance versus practical significance, explain how they would communicate a model's limitations to non-technical stakeholders, and describe how they monitor a model's performance after deployment.

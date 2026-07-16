@@ -1,0 +1,10 @@
+Title: Frontend Engineer
+Description: Frontend engineering role focused on building performant, accessible, and maintainable user interfaces.
+
+Frontend engineers build user-facing applications using modern JavaScript frameworks such as React, Vue, or Angular. Responsibilities include component architecture, state management, performance optimization, accessibility (a11y), cross-browser compatibility, and close collaboration with designers.
+
+Key skill areas: JavaScript/TypeScript fundamentals; React (hooks, context, rendering lifecycle); state management (Redux, Zustand, Context API); CSS architecture (Flexbox, Grid, responsive design, CSS-in-JS); build tooling (Vite, Webpack); testing (Jest, React Testing Library, Cypress); web performance (lazy loading, code splitting, bundle size optimization); accessibility standards (WCAG, ARIA).
+
+Common interview themes: explaining the virtual DOM and reconciliation, discussing when to use useMemo/useCallback, describing how to prevent unnecessary re-renders, explaining CSS specificity and the box model, walking through debugging a memory leak in a single page application, discussing strategies for optimizing Core Web Vitals, and describing experience building reusable component libraries.
+
+Candidates should be able to discuss tradeoffs between client-side and server-side rendering, explain how they approach responsive and accessible design, and describe a challenging UI bug they diagnosed and fixed.
